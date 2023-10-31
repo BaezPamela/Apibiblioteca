@@ -5,7 +5,7 @@ import lombok.*;
 
 
 @Entity
-//@Table(schema = "libro")
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter
